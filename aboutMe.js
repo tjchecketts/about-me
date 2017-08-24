@@ -1,0 +1,1 @@
+console.log("Hey guys, just a little bit about me, TJ Checketts")
